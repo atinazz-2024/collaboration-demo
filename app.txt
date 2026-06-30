@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+This release adds a clearer feature description to explain the project better.
